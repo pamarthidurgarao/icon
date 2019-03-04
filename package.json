@@ -1,14 +1,18 @@
 {
   "name": "@pamarthid/icon",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Icons librabry",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Durga Rao Pamarthi",
   "license": "ISC",
   "email": "pamarthidurgarao1@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pamarthidurgarao/icon.git"
+  },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
     "gulp": "^4.0.0",
