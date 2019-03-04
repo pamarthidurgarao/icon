@@ -1,0 +1,17 @@
+{
+  "name": "@pamarthid/icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "email": "pamarthidurgarao1@gmail.com",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "gulp": "^4.0.0",
+    "webfonts-generator": "^0.4.0"
+  }
+}

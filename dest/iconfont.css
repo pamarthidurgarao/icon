@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("iconfont.eot?7770f89c8f63edc8cd7f0be83665057a?#iefix") format("embedded-opentype"),
+url("iconfont.woff2?7770f89c8f63edc8cd7f0be83665057a") format("woff2"),
+url("iconfont.woff?7770f89c8f63edc8cd7f0be83665057a") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: iconfont !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-meetup:before {
+	content: "\f101";
+}
